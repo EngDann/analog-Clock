@@ -19,7 +19,7 @@ The "Analog Clock" project is developed purely in JavaScript and provides a real
 
 This project was particularly challenging and interesting as it allowed me to further enhance my skills in DOM manipulation and CSS. Building the clock was a significant challenge that required a deep understanding of CSS properties and their applications.
 
-## Image
+## Video
 
 ## How to Use
 
@@ -113,7 +113,7 @@ O projeto "Relógio Analógico" foi desenvolvido puramente em JavaScript e propo
 
 Este projeto foi particularmente desafiador e interessante, pois me permitiu aprimorar ainda mais minhas habilidades em manipulação do DOM e CSS. Construir o relógio foi um desafio significativo que exigiu um entendimento profundo das propriedades do CSS e suas aplicações.
 
-## Imagem
+## Video
 
 ## Como Usar
 
