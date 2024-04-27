@@ -21,6 +21,8 @@ This project was particularly challenging and interesting as it allowed me to fu
 
 ## Video
 
+https://github.com/EngDann/analog-Clock/assets/137555908/31cc29bf-2303-4fb2-9bdb-6e26c5d81e75
+
 ## How to Use
 
 To view the "Analog Clock", follow these steps:
@@ -114,6 +116,8 @@ O projeto "Relógio Analógico" foi desenvolvido puramente em JavaScript e propo
 Este projeto foi particularmente desafiador e interessante, pois me permitiu aprimorar ainda mais minhas habilidades em manipulação do DOM e CSS. Construir o relógio foi um desafio significativo que exigiu um entendimento profundo das propriedades do CSS e suas aplicações.
 
 ## Video
+
+https://github.com/EngDann/analog-Clock/assets/137555908/31cc29bf-2303-4fb2-9bdb-6e26c5d81e75
 
 ## Como Usar
 
